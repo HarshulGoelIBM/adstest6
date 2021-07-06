@@ -23,7 +23,7 @@
         <module>Level 2 - More tests and actions</module>
         <module>Level 3 - Multiples decisions</module>
         <module>Level 4 - Rules with definitions</module>
-        <module>Level 5 - Rules with dates</module>
+        <module>level5_RulesWithDatesOp</module>
         <module>.decisionservice</module>
     </modules>
 

@@ -8,7 +8,7 @@
     </parent>
 
     <groupId>decisions.education.business_rules</groupId>
-    <artifactId>level5-RulesWithDates</artifactId>
+    <artifactId>level5_RulesWithDatesOp</artifactId>
     <version>LATEST-SNAPSHOT</version>
     <packaging>decision-library</packaging>
 
@@ -21,7 +21,7 @@
                 <configuration>
                     <deployments>
                         <deployment>
-                            <name>level5-RulesWithDates</name>
+                            <name>level5_RulesWithDatesOp</name>
                         </deployment>
                     </deployments>
                 <packageName>decisions.education.business_rules.level5_ruleswithdatesandtimes</packageName>

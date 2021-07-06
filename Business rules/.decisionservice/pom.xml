@@ -38,7 +38,7 @@
         </dependency>
         <dependency>
             <groupId>decisions.education.business_rules</groupId>
-            <artifactId>level5-RulesWithDates</artifactId>
+            <artifactId>level5_RulesWithDatesOp</artifactId>
             <version>LATEST-SNAPSHOT</version>
         </dependency>
         <dependency>
@@ -54,6 +54,7 @@
     </dependencies>
 
     
+
 
 
 <build>
@@ -127,7 +128,7 @@
                                 </artifactItem>
                                 <artifactItem>
                                     <groupId>decisions.education.business_rules</groupId>
-                                    <artifactId>level5-RulesWithDates</artifactId>
+                                    <artifactId>level5_RulesWithDatesOp</artifactId>
                                     <version>LATEST-SNAPSHOT</version>
                                     <type>jar</type>
                                     <overWrite>false</overWrite>
